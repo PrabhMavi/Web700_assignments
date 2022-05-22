@@ -1,3 +1,12 @@
+/*********************************************************************************
+*  WEB700 – Assignment 1
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  
+*  No part of this assignment has been copied manually or electronically from any other source
+*  (including web sites) or distributed to other students.
+* 
+*  Name: Prabhjot Kaur Student ID: 148991219 Date:21-05-2022
+*
+********************************************************************************/ 
 console.log("Hello World");
 function getRandomInt(min, max) {
     min = Math.ceil(min);
